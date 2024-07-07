@@ -150,3 +150,8 @@ body {
     padding: 7px 0 6px;
     color: #403636;
 }
+
+/* 10 */
+.important-footer-text {
+    font-weight: 700;
+}

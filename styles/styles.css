@@ -88,3 +88,13 @@ body {
     display: block;
     text-indent: 0;
 }
+
+/* 10 */
+.special-main-text {
+    text-transform: uppercase;
+}
+
+/* 10 */
+.irrelevant-main-text {
+    text-decoration: line-through;
+}

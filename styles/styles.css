@@ -137,3 +137,16 @@ body {
     margin-top: 4px;
     padding-bottom: 18px;
 }
+
+/* 10 */
+.footer__line {
+    background: url("../img/back.gif") no-repeat 0 50%;
+    background-size: 100%;
+}
+
+/* 10 */
+.footer__item {
+    text-align: center;
+    padding: 7px 0 6px;
+    color: #403636;
+}

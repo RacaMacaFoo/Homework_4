@@ -81,3 +81,10 @@ body {
     margin-bottom: 31px;
     line-height: 18.75px
 }
+
+/* 10 */
+.content-additional {
+    margin-top: 5px;
+    display: block;
+    text-indent: 0;
+}

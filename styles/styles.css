@@ -19,3 +19,14 @@ body {
     background-color: #fff;
     padding: 0 3.5%;
   }
+
+/* 10 */
+.header__heading,
+/* 10 */
+.article__heading,
+/* 10 */
+.important-main-text,
+/* 20 */
+.nav__link:hover {
+    color: #a11414;
+}

@@ -56,3 +56,13 @@ body {
 .header__img-wrap img {
     width: 100%;
 }
+
+/* 10 */
+.section--flx {
+    display: flex;
+}
+
+/* 20 */
+.section--flx .article {
+    margin-right: 3px;
+}
